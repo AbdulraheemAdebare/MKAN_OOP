@@ -1,3 +1,3 @@
 ﻿using MKAN;
-Khaddim usable = new Khaddim();
-usable.GetAllKhuddam();
+Khaddim khad = new();
+khad.HomePage();

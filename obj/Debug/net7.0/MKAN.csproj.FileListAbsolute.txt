@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MyCSharpProject\MKAN\bin\Debug\net7.0\MKAN.exe
+C:\Users\user\Desktop\MyCSharpProject\MKAN\bin\Debug\net7.0\MKAN.deps.json
+C:\Users\user\Desktop\MyCSharpProject\MKAN\bin\Debug\net7.0\MKAN.runtimeconfig.json
+C:\Users\user\Desktop\MyCSharpProject\MKAN\bin\Debug\net7.0\MKAN.dll
+C:\Users\user\Desktop\MyCSharpProject\MKAN\bin\Debug\net7.0\MKAN.pdb
+C:\Users\user\Desktop\MyCSharpProject\MKAN\obj\Debug\net7.0\MKAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyCSharpProject\MKAN\obj\Debug\net7.0\MKAN.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyCSharpProject\MKAN\obj\Debug\net7.0\MKAN.AssemblyInfo.cs
+C:\Users\user\Desktop\MyCSharpProject\MKAN\obj\Debug\net7.0\MKAN.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyCSharpProject\MKAN\obj\Debug\net7.0\MKAN.dll
+C:\Users\user\Desktop\MyCSharpProject\MKAN\obj\Debug\net7.0\refint\MKAN.dll
+C:\Users\user\Desktop\MyCSharpProject\MKAN\obj\Debug\net7.0\MKAN.pdb
+C:\Users\user\Desktop\MyCSharpProject\MKAN\obj\Debug\net7.0\MKAN.genruntimeconfig.cache
+C:\Users\user\Desktop\MyCSharpProject\MKAN\obj\Debug\net7.0\ref\MKAN.dll
